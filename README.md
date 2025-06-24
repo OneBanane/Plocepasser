@@ -1,2 +1,2 @@
 # Plocepasser
-ADD ME
+Plocepasser is a platform for effective data management.
